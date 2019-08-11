@@ -1,3 +1,3 @@
 # weather_app
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)]
+[![Watch the video](https://j.gifs.com/BNRVZ2.gif)]
